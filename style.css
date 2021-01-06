@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 90vh !important;
+    width: 100vw !important;
+    display: flex;
+}
+.child{
+
+    height: 430px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+}
